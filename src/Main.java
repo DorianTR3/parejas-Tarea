@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Agregue una palabra: ");
      palabra=leer.nextLine();
         System.out.println("letras que tiene la palabra: ");
+        System.out.println(palabra.length());
+
     }
 }
